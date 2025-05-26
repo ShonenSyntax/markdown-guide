@@ -141,11 +141,6 @@ Great for TODOs in GitHub READMEs:
 screen.onkeypress(lambda: snake.setheading(90), "Up")
 ```
 
-**Tutorial Link:** [Watch here](https://youtube.com/some-tutorial)
-```
-
----
-
 ## 🔚 That’s It!
 
 Now you're ready to write beautiful notes, docs, and READMEs.
