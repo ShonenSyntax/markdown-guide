@@ -140,9 +140,13 @@ Great for TODOs in GitHub READMEs:
 ```python
 screen.onkeypress(lambda: snake.setheading(90), "Up")
 ```
+### 🎨 Emoji Shortcodes Reference
+---
+### Want to add emojis using shortcodes like `:fire:` or `:rocket:`?
 
+### Check out the full GitHub emoji cheat sheet here:  
+🔗 [GitHub Emoji Cheat Sheet by ikatyang](https://github.com/ikatyang/emoji-cheat-sheet)
+---
 ## 🔚 That’s It!
-
-Now you're ready to write beautiful notes, docs, and READMEs.
-
+### Now you're ready to write beautiful notes, docs, and READMEs.
 ---
